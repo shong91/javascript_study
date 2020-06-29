@@ -1,6 +1,5 @@
 // 구조 분해 할당 Destructuring
-
-let data = ["crong". "honux", "jk", "jinny"];
+let data = ["crong", "hon", "jk", "jinny"];
 
 // 배열의 특정 인덱스 값을 변수로 사용하기
 let myName = data[0];
