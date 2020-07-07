@@ -1,3 +1,6 @@
 *.iml
 *.xml
 .vscode/*.json
+
+/node_modules/
+
