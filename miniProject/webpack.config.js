@@ -1,10 +1,11 @@
 var path = require('path');
 
 module.exports = {
-    entry: "./miniProject/index.js",
+    entry: "./miniProject/src/index.js",
     output: {
         filename: 'bundle.js',
-        path: path.resolve(__dirname, 'dist')
+        path: path.resolve(__dirname, 'dist'),
+        publicPath: '/dist'
     },
     module: {
         rules: [{

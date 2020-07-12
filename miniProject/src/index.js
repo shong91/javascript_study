@@ -1,5 +1,6 @@
-console.log('start project by webpack!');
+import blog from "./main.js";
 
+const myblog = new blog();
 
 const myfunction = () => {
     let name = "hong";
