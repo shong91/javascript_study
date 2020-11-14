@@ -1,2 +1,2 @@
 # javascript_study
- modern javascript study
+[ES6] modern javascript study
